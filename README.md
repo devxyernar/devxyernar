@@ -21,12 +21,18 @@ GPA: **3.89 / 4.0** | English-taught (B2)
 ---
 
 ### Experience
-**Frontend Developer / Project Lead — AOGU AI-HUB**  
-Built UI for HR-tech MVP (200+ users), analytics dashboards.
 
-**Intern — Tengizchevroil (TCO)**  
-Data migration, SharePoint & Excel, compliance workflows.
+**AOGU — AI-HUB** · *Frontend Developer / Project Lead*  
+*Sep 2025 – Present*  
+Built UI for an **HR-tech MVP** used by **200+ users**, implemented analytics and feedback dashboards, and participated in pilot discussions with industrial partners (KazMunayGas, KPI, EmbaMunaiGas).
 
+**Tengizchevroil (TCO)** · *Supply Chain Intern*  
+*Feb 2025 – Mar 2025*  
+Migrated procurement data to **SharePoint & Excel**, ensured data integrity, and worked under strict corporate compliance standards.
+
+**ISKER CONSORTIUM** · *Assistant to Management Director / IT Intern*  
+*May 2024 – Feb 2025*  
+Prepared analytical briefs for executive decision-making, supported tender documentation, designed a **2D technical office layout (GOST)**, and built a corporate **WordPress** website with SSL and email setup.
 ---
 
 ### Skills
