@@ -16,7 +16,7 @@ Open to **Intern / Junior Frontend** roles.
 
 ## 🎓 Education
 **Atyrau Oil and Gas University (S. Utebayev)** — *B.Sc. Information Systems in Oil & Gas* | 2022–2026  
-- GPA: **3.89 / 4.0**, English B2  
+- GPA: **3.37 / 4.0**, English B2  
 - Courses: Web & Software Dev, Databases, IT Project Management
 
 ---
