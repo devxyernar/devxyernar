@@ -1,76 +1,33 @@
-# 👨‍💻 Yernar Zhaksylyk
-### Junior Frontend Developer
+### Hey there 👋
 
-📍 Atyrau, Kazakhstan  
-📧 yernarzhaksylyk@outlook.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yernar-zhaksylyk) | 💻 [GitHub](https://github.com/devxyernar)
+I'm Yernar, a Junior Frontend Developer and Project Lead based in Kazakhstan.
 
----
+I mostly work on building data-driven interfaces and digitizing manual workflows — focusing on **React**, **TypeScript**, and **Django**.
 
-## 🚀 About Me
-Junior Frontend Developer building **real business-oriented tools**.  
-Focused on **JavaScript, React**, and MVPs.  
-Open to **Intern / Junior Frontend** roles.
+I also have a strong background in data visualization using **Chart.js** and **Power BI**, helping organizations turn raw data into actionable insights.
+
+Currently, I'm finishing my degree at Atyrau Oil and Gas University (GPA 3.37) and leading development projects at AI-HUB.
 
 ---
 
-## 🎓 Education
-**Atyrau Oil and Gas University (S. Utebayev)** — *B.Sc. Information Systems in Oil & Gas* | 2022–2026  
-- GPA: **3.37 / 4.0**, English B2  
-- Courses: Web & Software Dev, Databases, IT Project Management
+### Tools & Tech
+
+-   **Frontend:** React, TypeScript, JavaScript, HTML/CSS
+-   **Backend & Data:** Python (Django), PostgreSQL.
+-   **Tools:** Git, VS Code, Trello MSOffice, Power BI, SharePoint
+---
+
+### Experience (Highlights)
+
+-   **Frontend Developer @ AI-HUB:** Built an HR-tech UI for 200+ users, centralizing university data and replacing manual workflows.
+-   **Intern @ Tengizchevroil (TCO):** Managed 100% accurate data migration to SharePoint for procurement audits.
+-   **Intern @ ISKER Consortium:** Prepared analytical briefings for executives and supported documentation for large-scale tenders.
 
 ---
 
-## 💼 Experience
+### A Bit About Me
 
-### 🖥 Frontend Developer / Project Lead  
-**AI-HUB, AOGU** | Sep 2025 – Present
-- Built **HR-tech MVP** for 200+ users  
-- Implemented achievement tracking & feedback analytics  
-- Collaborated with **KazMunayGas, KPI, EmbaMunaiGas**
-
-### 📦 Intern — Supply Chain Dept  
-**TCO** | Feb 2025 – Mar 2025
-- Migrated procurement data → **SharePoint / Excel**  
-- Ensured **100% compliance & data integrity**
-
-### 📑 Assistant to Management Director  
-**ISKER CONSORTIUM** | Oct 2024 – Feb 2025
-- Prepared 10+ analytical briefings for executives  
-- Supported tender documentation under international standards
-
-### 🛠 IT Intern  
-**ISKER CONSORTIUM** | May 2024 – Jul 2024
-- Designed **2D office layout (250 m²)**, GOST-compliant  
-- Built corporate **WordPress site** with SSL & email
-
----
-
-## 🧠 Key Projects
-
-### 📊 Faculty Analytics & HR-Tech Dashboard
-**Tech:** Django, Chart.js, PostgreSQL | 2025  
-- Interactive dashboards for **real-time analytics & decision support**
-
-### 🏗 Technical Infrastructure Planning
-**Tech:** Technical Design, GOST Standards | 2024  
-- Facility blueprints & optimized server/workstation layouts
-
----
-
-## 🛠 Technical Skills
-
-**Frontend:** JavaScript (ES6+), React, TypeScript (basic), HTML/CSS  
-**Backend/Data:** Python (Django), SQL, PostgreSQL  
-**Tools:** Git, GitHub, VS Code, Power BI, Excel, SharePoint, WordPress, GCP (basic), Linux (basic)  
-**Engineering/Business:** Technical Docs, GOST Standards, Data Digitization, Supply Chain
-
----
-
-## 🌍 Languages
-English — **B2** | Kazakh — **Native** | Russian — **Fluent**
-
----
-
-## 📎 References
-Available upon request
+-   🎓 **Student:** B.S. in Information Systems (Graduate 2026).
+-   🗣️ **Languages:** English (B2), Kazakh (Native), Russian (Fluent).
+-   🏆 **Achievement:** GPA 3.37 / 4.0.
+-   📬 **Contact:** [yernarzhaksylyk@outlook.com](mailto:yernarzhaksylyk@outlook.com) or find me on [LinkedIn](https://linkedin.com/in/yernar-zhaksylyk).
